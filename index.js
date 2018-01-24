@@ -7,6 +7,6 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log("I love you, Grandma.")
+  console.log("I LOVE YOU, GRANDMA")
 }
 
